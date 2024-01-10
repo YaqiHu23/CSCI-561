@@ -1,0 +1,3 @@
+Hangout(Leia,Teddy)
+1
+Likes(x,y) & Likes(y,x) | Meet(x,y,z) => Hangout(x,y)
